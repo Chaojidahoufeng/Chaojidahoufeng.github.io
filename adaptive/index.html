@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Adaptive &middot; My New Hugo Site</title>
+  <title>Adaptive Text to Speech with Untranscribed Data &middot; My New Hugo Site</title>
   <meta name="description" content="" />
 
   
@@ -50,14 +50,21 @@
 
     <main class="content container">
     <div class="post">
-  <h1>Adaptive</h1>
+  <h1>Adaptive Text to Speech with Untranscribed Data</h1>
   <time datetime=2020-10-16T11:35:23&#43;0800 class="post-date">Fri, Oct 16, 2020</time>
-  <h3 id="hello-hugo">Hello Hugo</h3>
-<ol>
-<li>aaa</li>
-<li>bbb</li>
-<li>ccc</li>
-</ol>
+  <h2 id="author">Author</h2>
+<ul>
+<li>Yuzi Yan (Tsinghua University) <a href="mailto:yan-yz17@mails.tsinghua.edu.cn">yan-yz17@mails.tsinghua.edu.cn</a></li>
+<li>Xu Tan</li>
+</ul>
+<h2 id="abstract">Abstract</h2>
+<p>Text to speech (TTS) is widely used to synthesize personal voice for a target speaker, where a well-trained source TTS model is usually fine-tuned with few paired adaptation data (speech and its transcript) on this target speaker. However, in many scenarios, only the untranscribed speech data is available for adaptation, which brings challenges to the previous TTS adaptation pipeline. In this paper, we develop an adaptive TTS system that only leverages untranscribed speech data for adaptation.  Specifically, we introduce a speech encoder to a well-trained TTS model to conduct speech reconstruction, and at the same time constrain the output sequence of the speech encoder to be close to that of the original phoneme encoder. In adaptation, we use untranscribed speech data for speech reconstruction and only fine-tune the TTS decoder.  Our system has two advantages: 1) Pluggable: our system can be easily applied to existing trained TTS models without retraining. 2) Effective: our system achieves on-par voice quality  compared with the transcribed TTS adaptation, with slightly more untranscribed data, and achieves better voice quality than previous adaptation methods.</p>
+<h2 id="audio-samples">Audio Samples</h2>
+<p>All of the audio samples use MelGAN as vocoder.</p>
+<h3 id="audio-quality">Audio Quality</h3>
+<p><em>When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.</em></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
 </div>
 
