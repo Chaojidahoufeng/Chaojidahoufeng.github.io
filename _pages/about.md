@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes reinforcement learning in both LLMs and robotics, alignment and generative models.
 
+I am very fortunate to be advised by [Prof. Yuan Shen](http://oa.ee.tsinghua.edu.cn/~shenyuan) in SGroup from [Institute of Information Systems, EE](https://www.ee.tsinghua.edu.cn/en/Research/Research_Institutes/Institute_of_Information_System.htm), Tsinghua University. I am also very fortunate to collaborate with [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) and [Prof. Jian Wang](http://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm) to contribute to the development of Collaborative Intelligence Group.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
