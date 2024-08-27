@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuzi Yan 严谕梓"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes reinforcement learning in both LLMs and robotics, alignment and generative models.
 
 A data-driven personal website
 ======
