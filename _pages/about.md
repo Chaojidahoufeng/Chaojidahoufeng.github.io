@@ -11,6 +11,10 @@ I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](htt
 
 I am very fortunate to be advised by [Prof. Yuan Shen](http://oa.ee.tsinghua.edu.cn/~shenyuan) in SGroup from [Institute of Information Systems, EE](https://www.ee.tsinghua.edu.cn/en/Research/Research_Institutes/Institute_of_Information_System.htm), Tsinghua University. I am also very fortunate to collaborate with [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) and [Prof. Jian Wang](http://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm) to contribute to the development of Collaborative Intelligence Group.
 
+Recently, I am interning in the RLHF group in [Baichuan AI](https://www.baichuan-ai.com/home), working on developing robust RLHF/alignment algorithms. Before that, I also interned in Machine Learning Group, Microsoft Asia Research, mentored by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ&hl=zh-CN&oi=ao).
+
+Starting from October 2024, I will start a six-month visiting scholar program at UIUC, hosted by [Prof. Tamer Basar](https://tamerbasar.csl.illinois.edu/). I plan to finish my Ph.D program in 2026 and will be open for the job/internship opportunities regarding LLM/Multimodal LM/embodied-AI in late 2025. 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
