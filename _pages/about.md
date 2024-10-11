@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Yuan Shen (沈渊)](http://oa.ee.tsinghua.
 
 Recently, I was interning in the RLHF group in [Baichuan AI (百川智能)](https://www.baichuan-ai.com/home), working with [Dong Yan (阎栋)](https://scholar.google.com/citations?user=lvztRUkAAAAJ&hl=zh-CN&oi=ao) on developing robust RLHF/alignment algorithms in LLMs. Before that, I interned in Machine Learning Group, Microsoft Asia Research, mentored by [Xu Tan (谭旭)](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Tao Qin (秦涛)](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ&hl=zh-CN&oi=ao) and [Tieyan Liu (刘铁岩)](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=zh-CN&oi=ao).
 
-Starting from October 2024, I will start a six-month visiting scholar program at UIUC, hosted by [Tamer Basar](https://tamerbasar.csl.illinois.edu/). 🌟With my Ph.D expected to conclude in **2026**, I am actively exploring job or internship opportunities in **autumn 2025**, particularly in areas such as **LLM, Multimodal LM, and embodied AI🤖️**. If my expertise aligns with your interests, I would be delighted to connect.
+Starting from October 2024, I will start a six-month visiting scholar program at UIUC, hosted by [Tamer Basar](https://tamerbasar.csl.illinois.edu/). 🌟With my Ph.D expected to conclude in **2026**, I am actively exploring job or internship opportunities in **autumn 2025**, particularly in areas such as **LLM, Multimodal LM, and embodied AI🤖️**. If my expertise aligns with your interests, I would be delighted to connect (yan-yz17@tsinghua.org.cn).
 
 🔥News
 ======
