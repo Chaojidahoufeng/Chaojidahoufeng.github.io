@@ -17,6 +17,7 @@ Starting from October 2024, I will start a six-month visiting scholar program at
 
 🔥News
 ======
+- *2025.01*: &nbsp;🎉 Paper accepted by ICLR 2025. 
 - *2024.10*: &nbsp;📖 Go to UIUC for a 6-month visiting, hosted by Tamer Basar. 
 - *2024.06*: &nbsp;🎉 Paper accepted by ICML 2024. 
 - *2024.01*: &nbsp;🎉 Paper accepted by IEEE TSP.  
@@ -28,6 +29,7 @@ Starting from October 2024, I will start a six-month visiting scholar program at
 
 📑Selected Publications
 ======
+- [ICLR25] *3D-Properties: Identifying Challenges in DPO and Charting a Path Forward*, **Y Yan**, Y Miao, J Li, et al.
 - [ICML24] *Exploring the LLM Journey from Cognition to Expression with Linear Representations*, **Y Yan**, J Li, Y Zhang, D Yan.
 - [IEEE-TSP] *Distributed Policy Gradient for Linear Quadratic Networked Control with Limited Communication Range*, **Y Yan**, Y Shen.
 - [ICASSP23] *Approximation Error Back-Propagation for Q-Function in Scalable Reinforcement Learning with Tree Dependence Structure*, **Y Yan**, Y Dong, K Ma, et al.
@@ -38,7 +40,6 @@ Starting from October 2024, I will start a six-month visiting scholar program at
 😊Recent Preprints
 ======
 - [Arxiv] *Reward-Robust RLHF in LLMs*, **Y Yan**, X Lou, J Li, et al.
-- [Arxiv] *3D-Properties: Identifying Challenges in DPO and Charting a Path Forward*, **Y Yan**, Y Miao, J Li, et al.
 - [Arxiv] *Uncertainty-aware Reward Model: Teaching Reward Models to Know What is Unknown*, X Lou, D Yan, W Shen, **Y Yan**, et al.
 
 🏆Awards
