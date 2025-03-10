@@ -66,5 +66,6 @@ Starting from October 2024, I will start a six-month visiting scholar program at
 
 💻Internships
 ======
-- *2023.07 - now*, Baichuan AI, Beijing.
+- *2025.02 - now*, Moonshot AI, Beijing.
+- *2023.07 - 2024.09*, Baichuan AI, Beijing.
 - *2020.06 - 2021.08*, MSRA, Machine Learning Group, Beijing.
