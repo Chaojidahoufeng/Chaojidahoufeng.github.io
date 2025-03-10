@@ -59,8 +59,8 @@ Recently, I am working as an intern in [Moonshot AI](https://www.moonshot.ai/), 
 
 📖Educations
 ======
-- *2024.10 - now*, visiting scholar, UIUC, USA.
 - *2021.09 - now*, PH.D, EE, Tsinghua University, China.
+- *2024.10 - 2025.02*, visiting scholar, UIUC, ECE, USA.
 - *2018.11 - 2019.01*, visiting student, University of Cambridge, UK.
 - *2017.09 - 2021.06*, Undergraduate, EE, Tsinghua University, China.
 - *2014.09 - 2017.06*, HuBei Wuchang Experimental High School, Wuhan, China.
