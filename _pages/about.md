@@ -11,7 +11,7 @@ I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](htt
 
 I am very fortunate to be advised by [Yuan Shen (沈渊)](http://oa.ee.tsinghua.edu.cn/~shenyuan) in SGroup from [Institute of Information Systems, EE （信息系统研究所）](https://www.ee.tsinghua.edu.cn/en/Research/Research_Institutes/Institute_of_Information_System.htm), Tsinghua University. I am also very fortunate to collaborate with [Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) to contribute to the development of [Collaborative Intelligence Group (智能协同团队)](http://web.ee.tsinghua.edu.cn/wangyu/zh_CN/yjfx/2129/content/1305.htm). I also work with [Kaiqing Zhang](https://scholar.google.com/citations?user=Hi7ZdhQAAAAJ&hl=zh-CN&oi=ao) and [Tamer Basar](https://tamerbasar.csl.illinois.edu/) to explore the underlying theory of RL/MARL. Before that, I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
 
-Recently, I am working as an intern in [Moonshot AI](https://www.moonshot.ai/), working on RL with multimodal LLMs and developing K-series models for Kimi. Before that, I was interning in the RLHF group in [Baichuan AI (百川智能)](https://www.baichuan-ai.com/home), mentored by [Dong Yan (阎栋)](https://scholar.google.com/citations?user=lvztRUkAAAAJ&hl=zh-CN&oi=ao), and in [Machine Learning Group, Microsoft Asia Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan (谭旭)](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Tao Qin (秦涛)](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ&hl=zh-CN&oi=ao) and [Tieyan Liu (刘铁岩)](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=zh-CN&oi=ao).
+Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.moonshot.ai/), working on RL with multimodal LLMs and developing K-series models for Kimi. Before that, I was interning in the RLHF group in [Baichuan AI (百川智能)](https://www.baichuan-ai.com/home), mentored by [Dong Yan (阎栋)](https://scholar.google.com/citations?user=lvztRUkAAAAJ&hl=zh-CN&oi=ao), and in [Machine Learning Group, Microsoft Asia Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan (谭旭)](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Tao Qin (秦涛)](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ&hl=zh-CN&oi=ao) and [Tieyan Liu (刘铁岩)](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=zh-CN&oi=ao).
 
 🌟With my Ph.D expected to conclude in **2026**, I am actively exploring job or internship opportunities in **autumn 2025**, particularly in areas such as **LLM, Multimodal LM, and embodied AI🤖️**. If my expertise aligns with your interests, I would be delighted to connect (yan-yz17@tsinghua.org.cn).
 
@@ -22,7 +22,7 @@ Recently, I am working as an intern in [Moonshot AI](https://www.moonshot.ai/), 
 - *2025.01*: &nbsp;🎉 Paper accepted by ICLR 2025. 
 - *2024.10*: &nbsp;📖 Go to UIUC for a 6-month visiting, hosted by Tamer Basar. 
 - *2024.06*: &nbsp;🎉 Paper accepted by ICML 2024. 
-- *2024.01*: &nbsp;🎉 Paper accepted by IEEE TSP.  
+- *2024.01*: &nbsp;🎉 Paper accepted by IEEE TSP.
 - *2023.08*: &nbsp;💻 Join Baichuan AI as a research intern, focusing on RLHF/alignment in LLMs. 
 - *2023.06*: &nbsp;🎉 Paper accepted by ICASSP 2023 (oral).  
 - *2022.06*: &nbsp;🎉 Paper accepted by ICRA 2022. 
