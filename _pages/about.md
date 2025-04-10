@@ -17,6 +17,7 @@ Recently, I am working as an intern in [Moonshot AI](https://www.moonshot.ai/), 
 
 🔥News
 ======
+- *2025.04*: &nbsp;🎉 We release [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) and [Kimi-VL-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct), a light but powerful MoE VLM with reasoning capability. 
 - *2025.02*: &nbsp;💻 Join Moonshot AI as a research intern, focusing on general RL for multimodal LLMs. 
 - *2025.01*: &nbsp;🎉 Paper accepted by ICLR 2025. 
 - *2024.10*: &nbsp;📖 Go to UIUC for a 6-month visiting, hosted by Tamer Basar. 
