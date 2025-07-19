@@ -20,7 +20,7 @@ Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.m
 - *2025.07*: &nbsp;🎉 We release [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2), the SOTA open-source model with 1T total parameters.
 - *2025.06*: &nbsp;🎉 We release [Kimi-Dev-72B](https://github.com/MoonshotAI/Kimi-Dev), a new SOTA on SWE-bench Verified among open-source models.
 - *2025.04*: &nbsp;🎉 We release [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) and [Kimi-VL-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct), a light but powerful MoE VLM with reasoning capability. 
-- *2025.02*: &nbsp;💻 Join Moonshot AI as a research intern, focusing on general RL for multimodal LLMs. 
+- *2025.02*: &nbsp;💻 Join Moonshot AI as a research intern, focusing on general RL for LLMs/mLLMs. 
 - *2025.01*: &nbsp;🎉 Paper accepted by ICLR 2025. 
 - *2024.10*: &nbsp;📖 Go to UIUC for a 6-month visiting, hosted by Tamer Basar. 
 - *2024.06*: &nbsp;🎉 Paper accepted by ICML 2024. 
