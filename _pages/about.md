@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Yuan Shen (沈渊)](http://oa.ee.tsinghua.
 
 Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.moonshot.ai/), working on coding RL in LLMs and developing K-series models for Kimi. Before that, I was interning in the RLHF group in [Baichuan AI (百川智能)](https://www.baichuan-ai.com/home), mentored by [Dong Yan (阎栋)](https://scholar.google.com/citations?user=lvztRUkAAAAJ&hl=zh-CN&oi=ao), and in [Machine Learning Group, Microsoft Asia Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan (谭旭)](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Tao Qin (秦涛)](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ&hl=zh-CN&oi=ao) and [Tieyan Liu (刘铁岩)](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=zh-CN&oi=ao).
 
-🌟With my Ph.D expected to conclude in **2026**, I am actively exploring job or internship opportunities in **autumn 2025**, particularly in areas such as **LLM, Multimodal LM, and embodied AI🤖️**. If my expertise aligns with your interests, I would be delighted to connect (yan-yz17@tsinghua.org.cn).
+🌟With my Ph.D expected to conclude in **2026**, I am actively exploring job or internship opportunities in **autumn 2025**, particularly in areas such as **LLM, VLM, and embodied AI🤖️**. If my expertise aligns with your interests, I would be delighted to connect (yan-yz17@tsinghua.org.cn).
 
 🔥News
 ======
