@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year Ph.D candidate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes reinforcement learning in both LLMs and robotics, robust optimization theory in RL and MARL. I also have some experience in generative models especially in NLP and speech.
+I'm a final year Ph.D candidate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes reinforcement learning in both LLMs and robotics, robust optimization theory in RL and MARL. I also have some experience in generative models especially in NLP and speech.
 
 I am very fortunate to be advised by [Yuan Shen (沈渊)](http://oa.ee.tsinghua.edu.cn/~shenyuan) in SGroup from [Institute of Information Systems, EE (信息系统研究所)](https://www.ee.tsinghua.edu.cn/en/Research/Research_Institutes/Institute_of_Information_System.htm), Tsinghua University. I am also very fortunate to collaborate with [Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) to contribute to the development of [Collaborative Intelligence Group (智能协同团队)](http://web.ee.tsinghua.edu.cn/wangyu/zh_CN/yjfx/2129/content/1305.htm). I also work with [Kaiqing Zhang](https://scholar.google.com/citations?user=Hi7ZdhQAAAAJ&hl=zh-CN&oi=ao) and [Tamer Basar](https://tamerbasar.csl.illinois.edu/) to explore the underlying theory of RL/MARL. Before that, I received my bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
 
