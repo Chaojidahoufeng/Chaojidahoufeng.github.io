@@ -17,19 +17,20 @@ Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.m
 
 🔥News
 ======
-- *2025.07*: &nbsp;🎉 We release [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2), the SOTA open-source model with 1T total parameters.
-- *2025.06*: &nbsp;🎉 We release [Kimi-Dev-72B](https://github.com/MoonshotAI/Kimi-Dev), a new SOTA on SWE-bench Verified among open-source models.
-- *2025.04*: &nbsp;🎉 We release [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) and [Kimi-VL-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct), a light but powerful MoE VLM with reasoning capability. 
-- *2025.02*: &nbsp;💻 Join Moonshot AI as a research intern, focusing on general RL for LLMs/mLLMs. 
+- *2025.11*: &nbsp;🎉 We released [Kimi-K2-thinking](https://moonshotai.github.io/Kimi-K2/thinking.html), the thinking version of Kimi-K2.
+- *2025.07*: &nbsp;🎉 We released [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2), an open-source model with 1T total parameters.
+- *2025.06*: &nbsp;🎉 We released [Kimi-Dev-72B](https://github.com/MoonshotAI/Kimi-Dev).
+- *2025.04*: &nbsp;🎉 We released [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) and [Kimi-VL-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct), a light but powerful MoE VLM with reasoning capability. 
+- *2025.02*: &nbsp;💻 Joined Moonshot AI as a research intern, focusing on general RL for LLMs/mLLMs. 
 - *2025.01*: &nbsp;🎉 Paper accepted by ICLR 2025. 
 - *2024.10*: &nbsp;📖 Go to UIUC for a 6-month visiting, hosted by Tamer Basar. 
 - *2024.06*: &nbsp;🎉 Paper accepted by ICML 2024. 
 - *2024.01*: &nbsp;🎉 Paper accepted by IEEE TSP.
-- *2023.08*: &nbsp;💻 Join Baichuan AI as a research intern, focusing on RLHF/alignment in LLMs. 
+- *2023.08*: &nbsp;💻 Joined Baichuan AI as a research intern, focusing on RLHF/alignment in LLMs. 
 - *2023.06*: &nbsp;🎉 Paper accepted by ICASSP 2023 (oral).  
 - *2022.06*: &nbsp;🎉 Paper accepted by ICRA 2022. 
 - *2021.12*: &nbsp;🎉 Paper accepted by ICASSP, INTERSPEECH. 
-- *2020.08*: &nbsp;💻 Join MSRA as a research intern, focusing on Text-to-speech generation. 
+- *2020.08*: &nbsp;💻 Joined MSRA as a research intern, focusing on Text-to-speech generation. 
 
 📑Selected Publications
 ======
