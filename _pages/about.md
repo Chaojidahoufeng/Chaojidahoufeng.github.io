@@ -17,6 +17,7 @@ Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.m
 
 🔥News
 ======
+- *2026.1*： &nbsp;💻 Joined Bytedance Seed as a research intern, focusing on frontend coding agent. 
 - *2025.11*: &nbsp;🎉 We released [Kimi-K2-thinking](https://moonshotai.github.io/Kimi-K2/thinking.html), the thinking version of Kimi-K2.
 - *2025.07*: &nbsp;🎉 We released [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2), an open-source model with 1T total parameters.
 - *2025.06*: &nbsp;🎉 We released [Kimi-Dev-72B](https://github.com/MoonshotAI/Kimi-Dev).
