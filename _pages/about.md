@@ -18,6 +18,7 @@ Recently, I am working as an intern in [Moonshot AI(月之暗面)](https://www.m
 🔥News
 ======
 - *2026.01*: &nbsp;💻 Joined Bytedance Seed as a research intern, focusing on frontend coding agent. 
+- *2026.01*: &nbsp;🎉 We released [Kimi-K2.5](https://www.kimi.com/blog/kimi-k2-5.html), delivering state-of-the-art coding and vision capabilities and a self-directed agent swarm paradigm. It ranks [Open#1](https://arena.ai/zh/leaderboard/) in LMArena in both Text/Code/Vision domains to date and glad to be part of the achievement!
 - *2025.11*: &nbsp;🎉 We released [Kimi-K2-thinking](https://moonshotai.github.io/Kimi-K2/thinking.html), the thinking version of Kimi-K2.
 - *2025.07*: &nbsp;🎉 We released [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2), an open-source model with 1T total parameters.
 - *2025.06*: &nbsp;🎉 We released [Kimi-Dev-72B](https://github.com/MoonshotAI/Kimi-Dev).
