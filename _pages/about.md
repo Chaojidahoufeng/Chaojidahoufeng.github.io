@@ -13,7 +13,7 @@ I am advised by Prof. [Yuan Shen](http://oa.ee.tsinghua.edu.cn/~shenyuan) at the
 
 Previously, I interned at Moonshot AI, Baichuan AI, and MSRA, working on LLM training and alignment. Upon graduation in 2026, I will join the Qwen Team at Alibaba through Alibaba Star Program, continuing my work on coding agents and RL-based post-training.
 
-If our interests align, feel free to reach out: yan-yz17 [at] tsinghua [dot] org [dot] cn
+If our interests align, feel free to reach out: yan-yz17@tsinghua.org.cn
 
 🔥News
 ======
