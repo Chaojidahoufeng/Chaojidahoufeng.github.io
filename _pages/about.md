@@ -11,7 +11,7 @@ I am a final-year Ph.D. candidate in the [Department of Electronic Engineering](
 
 I am advised by Prof. [Yuan Shen](http://oa.ee.tsinghua.edu.cn/~shenyuan) at the Institute of Information Systems, Tsinghua University, and have collaborated with Prof. [Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) on collaborative intelligence systems. My theoretical work on RL optimization is conducted with Prof. [Kaiqing Zhang](https://scholar.google.com/citations?user=Hi7ZdhQAAAAJ&hl=zh-CN&oi=ao) and Prof. [Tamer Başar](https://tamerbasar.csl.illinois.edu/). I received my B.Eng. from Tsinghua in 2021.
 
-Previously, I interned at Moonshot AI, Baichuan AI, and MSRA, working on LLM training and alignment. Upon graduation in 2026, I will join the Qwen Team at Alibaba through the Alibaba Star Program, continuing my work on coding agents and RL-based post-training.
+Previously, I interned at Moonshot AI, Baichuan AI, and MSRA, working on LLM training and alignment. Upon graduation in 2026, I will join the Qwen Team at Alibaba through Alibaba Star Program, continuing my work on coding agents and RL-based post-training.
 
 If our interests align, feel free to reach out: yan-yz17 [at] tsinghua [dot] org [dot] cn
 
